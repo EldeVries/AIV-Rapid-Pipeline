@@ -1,0 +1,51 @@
+NCBI sequences: 
+H6N5 CY077660 A/Pacific black duck/Western Australia/4045/1980 from NCBI
+H7N3 AF202227 A/chicken/Victoria/1/1992 from NCBI 
+H7N3 AF202231 A/chicken/Queensland/667/95 1995 from NCBI
+H7N4 AY943924 A/chicken/NSW/1/1997 1997 from NCBI
+H9N1 MK213322 A/Grey Teal/Victoria/GT001/2017 from NCBI 
+H17N10 CY103892.1 A/little yellow-shouldered bat/Guatemala/060/2010
+H1N CY077677 A/duck/Victoria/23/1981
+H5N3 CY111533 A/duck/Victoria/0305-2/2012 from NCBI
+H2 CY077529 A/mallard/New Zealand/449-81-2004 from NCBI
+H12 MH453831 Influenza A Virus 2013 from NCBI
+H8 MT090367_A/duck/Bangladesh/37525/2019 from NCBI 
+H8 MK978904_A/duck/Hokkaido/X9/2016 from NCBI
+H14 KX602668_A/goose/Karachi/NARC-13N-969/2014 from NCBI
+H14 MN431050_A/Blue-winged_Teal/Ohio/18OS1695/2018 from NCBI
+H13N8 A/kelp_gull/Chile/C27733/2017
+
+Ag Vic Sequences: 
+H4 AgVic in house sequence done with Illumina and ssembled with IRMA (sample 19-1749-226). 
+H4 AgVic in house sequence done with Illumina and ssembled with IRMA (sample 19-1749-32). 
+H3 AgVic in house sequence done with Illumina and ssembled with IRMA (sample B2V3N_10_3507_19). 
+H16 AgVic in house sequence done with Illumina and assembled with IRMA (sample 19-4759-11_SS_L001). 
+H11 AgVic in house sequence done with Illumina and assembled with IRMA (sample 19-0581-09_S4_L001).
+H10  AgVic in house sequence done with Illumina and assembled with IRMA (sample 18-2116-16-5-E2). 
+H10  AgVic in house sequence done with Illumina and assembled with IRMA (sample AIV-193). 
+H13 AgVic in house sequence done with Illumina and assemebled with IRMA (sample 19-4759-3). 
+H7 AgVic in house sequence done with Illumina and assembled with IRMA (sample 19-1749-185E5P1-2-V2).
+H1 AgVic in house sequence done with Illumina and assembled with IRMA (sample 19-1749-184). 
+H9  AgVic in house sequence done with Illumina and assembled with IRMA (sample AIV-19-185).
+
+GISAID sequences:
+H7 A/starling/Victoria/1/1985 | EPI_ISL_14672 
+H11 A/sharp-tailed sandpiper/Australia/6/2004 | EPI_ISL_21031 
+H5 A/duck/Victoria/26/1981 | EPI_ISL_84881  
+H6 A/gray_teal_Australia_1_1979 | EPI_ISL_5815  
+H15 A/sooty tern/Western Australia/2190/1983 | EPI_ISL_8939
+H15 A/Australian shelduck/Western Australia/1756/1983 | EPI_ISL_8938 
+H3 A/Pink-eared Duck/Victoria/PD001/2017 | EPI_ISL_388775
+H5 A/mallard_duck_New_Zealand_11.214.33_2011 | EPI_ISL_379008
+H12 A/red-necked stint_Western Australia_5745_1982 | EPI_ISL_27378
+
+
+
+Temporary sequences: 
+
+
+
+H17 is added as a positive control to ensure that amplification, MinION sequencing and bioinformatics are all functioning as hypthesised. 
+
+Database made by the makeblastdb script located in the folder.
+
